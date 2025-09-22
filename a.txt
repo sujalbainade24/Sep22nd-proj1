@@ -1,3 +1,10 @@
 Hello Sujal
+<<<<<<< HEAD
 This is change mae by User 02
 This is line2
+=======
+Change made by user 01
+This is line1
+I am rewriting a.txt
+Adding some New Files
+>>>>>>> d5dc5db64f0cfc786f493536d105038a3b09d099
