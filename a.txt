@@ -1,12 +1,9 @@
 Hello Sujal
-<<<<<<< HEAD
 This is change mae by User 02
 This is line2
-=======
 Change made by user 01
 This is line1
 I am rewriting a.txt
 Adding some New Files
->>>>>>> d5dc5db64f0cfc786f493536d105038a3b09d099
 Changes are being made by issue50
-Adding new line for ctivity[D[D[D[D[D[a[C[C[C[C[C[C[C
+Adding new line for ctivity
