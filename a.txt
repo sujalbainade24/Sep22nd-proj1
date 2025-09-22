@@ -1,3 +1,5 @@
 Hello Sujal
 Change made by user 01
 This is line1
+I am rewriting a.txt
+Adding some New Files
